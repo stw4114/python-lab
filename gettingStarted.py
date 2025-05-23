@@ -27,7 +27,7 @@ def welcome_assignment_answers(question):
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue and catch errors
-        answer = "This is not the correct answer"
+        answer = "This is not the answer you're looking for"
     return(answer)
 # Complete all the questions.
 
