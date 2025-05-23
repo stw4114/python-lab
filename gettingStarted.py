@@ -28,7 +28,7 @@ def welcome_assignment_answers(question):
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue and catch errors
         answer = "This is not the answer you're looking for"
-    return(answer)
+    return answer
 # Complete all the questions.
 
 
