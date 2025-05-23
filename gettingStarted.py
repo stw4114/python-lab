@@ -28,8 +28,8 @@ def welcome_assignment_answers(question):
         ### you should understand why this else case should be included
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue and catch errors
-        answer = "debug_question"
-    return(Once in a Lifetime)
+        answer = "Warning: Unrecognized question input."
+    return(answer)
 # Complete all the questions.
 
 
