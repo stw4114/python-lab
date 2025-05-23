@@ -29,7 +29,7 @@ def welcome_assignment_answers(question):
         ### what happens if there is a typo in one of the questions?
         ### maybe put something here to flag an issue and catch errors
         answer = "debug_question"
-    return(answer)
+    return(Once in a Lifetime)
 # Complete all the questions.
 
 
